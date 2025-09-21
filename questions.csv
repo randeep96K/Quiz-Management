@@ -1,0 +1,101 @@
+ID,Question,OptionA,OptionB,OptionC,OptionD,Correct,Subject,Difficulty
+1,What is 2+2?,2,3,4,5,C,Math,1
+2,What is the capital of France?,London,Paris,Berlin,Rome,B,Geography,1
+3,Who wrote Romeo and Juliet?,Shakespeare,Dickens,Austen,Tolkien,A,Literature,2
+4,What is the chemical symbol for gold?,Au,Ag,Fe,Cu,A,Chemistry,2
+5,Which planet is closest to the sun?,Venus,Mercury,Earth,Mars,B,Science,1
+6,What is the square root of 144?,10,11,12,13,C,Math,1
+7,Who painted the Mona Lisa?,Van Gogh,Picasso,Da Vinci,Monet,C,Art,2
+8,What is the largest ocean?,Atlantic,Indian,Arctic,Pacific,D,Geography,1
+9,What year did World War II end?,1944,1945,1946,1947,B,History,2
+10,What is the speed of light in vacuum?,300000 km/s,150000 km/s,450000 km/s,600000 km/s,A,Physics,3
+11,What is 5 x 7?,30,35,40,45,B,Math,1
+12,Which continent is Egypt in?,Asia,Europe,Africa,Australia,C,Geography,1
+13,Who invented the telephone?,Edison,Bell,Tesla,Marconi,B,History,2
+14,What is H2O?,Hydrogen,Water,Oxygen,Carbon dioxide,B,Chemistry,1
+15,How many sides does a hexagon have?,5,6,7,8,B,Math,1
+16,What is the smallest prime number?,0,1,2,3,C,Math,2
+17,Which gas do plants absorb from atmosphere?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,Science,1
+18,Who wrote 1984?,Orwell,Huxley,Bradbury,Asimov,A,Literature,2
+19,What is the hardest natural substance?,Diamond,Gold,Iron,Platinum,A,Science,2
+20,In which year was the first iPhone released?,2005,2006,2007,2008,C,Technology,2
+21,What is the capital of Japan?,Kyoto,Tokyo,Osaka,Hiroshima,B,Geography,1
+22,Who composed The Four Seasons?,Bach,Mozart,Vivaldi,Beethoven,C,Music,2
+23,What is the largest mammal?,Elephant,Blue whale,Giraffe,Hippopotamus,B,Science,1
+24,Which programming language was developed by James Gosling?,C++,Java,Python,JavaScript,B,Technology,2
+25,What is 3 squared?,6,9,12,15,B,Math,1
+26,Who was the first person to walk on the moon?,Buzz Aldrin,Neil Armstrong,John Glenn,Alan Shepard,B,History,2
+27,What is the main ingredient in guacamole?,Tomato,Onion,Avocado,Pepper,C,Food,1
+28,Which organ produces insulin?,Liver,Pancreas,Kidney,Heart,B,Biology,2
+29,What is the freezing point of water in Celsius?,0,32,100,212,A,Science,1
+30,Who painted Starry Night?,Picasso,Van Gogh,Monet,Renoir,B,Art,2
+31,What is the capital of Australia?,Sydney,Melbourne,Brisbane,Canberra,D,Geography,2
+32,Which element has the symbol Fe?,Iron,Fluorine,Francium,Fermium,A,Chemistry,1
+33,What is 100 divided by 4?,20,25,30,35,B,Math,1
+34,Who wrote Pride and Prejudice?,Bronte,Austen,Eliot,Dickens,B,Literature,2
+35,What is the longest river in the world?,Amazon,Nile,Mississippi,Yangtze,B,Geography,2
+36,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B,Science,1
+37,What is the square root of 81?,7,8,9,10,C,Math,1
+38,Who developed the theory of relativity?,Newton,Einstein,Galileo,Kepler,B,Physics,3
+39,What is the smallest country in the world?,Monaco,Vatican City,San Marino,Liechtenstein,B,Geography,2
+40,Which vitamin is produced by skin when exposed to sunlight?,Vitamin A,Vitamin B,Vitamin C,Vitamin D,D,Biology,2
+41,What is 15% of 200?,25,30,35,40,B,Math,2
+42,Who invented the World Wide Web?,Bill Gates,Tim Berners-Lee,Steve Jobs,Mark Zuckerberg,B,Technology,2
+43,What is the currency of the United Kingdom?,Euro,Dollar,Pound,Franc,C,Geography,1
+44,Which gas makes up most of Earth's atmosphere?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen,C,Science,1
+45,What is the fastest land animal?,Lion,Cheetah,Leopard,Tiger,B,Biology,1
+46,Who wrote To Kill a Mockingbird?,Harper Lee,Mark Twain,Ernest Hemingway,F. Scott Fitzgerald,A,Literature,2
+47,What is the boiling point of water in Fahrenheit?,100,180,212,250,C,Science,1
+48,Which country has the most natural lakes?,Canada,Russia,Finland,Sweden,A,Geography,2
+49,What is 7 x 8?,54,56,58,60,B,Math,1
+50,Who painted The Last Supper?,Michelangelo,Da Vinci,Raphael,Donatello,B,Art,2
+51,What is the chemical formula for salt?,NaCl,H2O,CO2,CaCO3,A,Chemistry,1
+52,Which instrument did Beethoven primarily compose for?,Violin,Piano,Flute,Trumpet,B,Music,2
+53,What is the largest continent?,Asia,Africa,North America,Europe,A,Geography,1
+54,Who discovered penicillin?,Fleming,Pasteur,Koch,Jenner,A,Biology,3
+55,What is 12 x 12?,144,154,164,174,A,Math,1
+56,Which planet has the most moons?,Earth,Jupiter,Saturn,Mars,C,Science,2
+57,What is the capital of Brazil?,Rio de Janeiro,São Paulo,Brasília,Salvador,C,Geography,2
+58,Who wrote The Great Gatsby?,Hemingway,Fitzgerald,Steinbeck,Faulkner,B,Literature,2
+59,What is the smallest unit of matter?,Molecule,Atom,Electron,Proton,B,Chemistry,2
+60,Which ocean is the smallest?,Arctic,Indian,Atlantic,Pacific,A,Geography,2
+61,What is 144 divided by 12?,10,11,12,13,C,Math,1
+62,Who invented the light bulb?,Tesla,Edison,Bell,Marconi,B,History,2
+63,What is the main gas in the sun?,Hydrogen,Helium,Oxygen,Nitrogen,A,Physics,3
+64,Which country gifted the Statue of Liberty to USA?,England,France,Spain,Italy,B,History,2
+65,What is the square of 13?,156,169,182,195,B,Math,2
+66,Who composed The Magic Flute?,Bach,Mozart,Beethoven,Haydn,B,Music,2
+67,What is the hardest rock?,Granite,Marble,Diamond,Quartz,C,Geology,2
+68,Which blood type is the universal donor?,A,B,AB,O,D,Biology,2
+69,What is 25% of 80?,15,20,25,30,B,Math,1
+70,Who painted Girl with a Pearl Earring?,Rembrandt,Vermeer,Van Gogh,Monet,B,Art,2
+71,What is the chemical symbol for silver?,Si,Ag,Al,Au,B,Chemistry,1
+72,Which instrument measures earthquakes?,Barometer,Seismograph,Thermometer,Anemometer,B,Geology,2
+73,What is the largest desert?,Sahara,Gobi,Kalahari,Arabian,A,Geography,2
+74,Who wrote One Hundred Years of Solitude?,Márquez,Borges,Neruda,Vargas Llosa,A,Literature,3
+75,What is absolute zero in Celsius?,-273,0,100,-100,A,Physics,3
+76,Which country invented pizza?,France,Italy,Greece,Spain,B,Food,1
+77,What is 8 factorial?,5040,40320,362880,181440,B,Math,3
+78,Who discovered DNA structure?,Watson and Crick,Mendel,Darwin,Pasteur,A,Biology,3
+79,What is the speed of sound in air?,343 m/s,300 m/s,400 m/s,500 m/s,A,Physics,2
+80,Which city hosted the 2016 Olympics?,London,Beijing,Rio de Janeiro,Tokyo,C,Sports,1
+81,What is the cube root of 27?,2,3,4,5,B,Math,2
+82,Who wrote The Origin of Species?,Mendel,Darwin,Lamarck,Wallace,B,Biology,3
+83,What is the pH of pure water?,6,7,8,9,B,Chemistry,2
+84,Which country has the longest coastline?,Russia,Canada,Norway,Chile,B,Geography,2
+85,What is 2 to the power of 10?,512,1024,2048,4096,B,Math,2
+86,Who invented the printing press?,Gutenberg,Caxton,Franklin,Edison,A,History,2
+87,What is the most abundant element in universe?,Hydrogen,Helium,Oxygen,Carbon,A,Physics,3
+88,Which mammal can fly?,Bat,Squirrel,Lemur,Monkey,A,Biology,1
+89,What is the golden ratio approximately?,1.414,1.618,2.718,3.141,B,Math,3
+90,Who painted The Scream?,Picasso,Munch,Van Gogh,Dali,B,Art,2
+91,What is the atomic number of carbon?,4,6,8,12,B,Chemistry,2
+92,Which country invented the compass?,Greece,China,Egypt,India,B,History,2
+93,What is the derivative of x squared?,x,2x,x/2,2,B,Math,3
+94,Who wrote Brave New World?,Orwell,Huxley,Bradbury,Vonnegut,B,Literature,2
+95,What is the melting point of ice?,0°C,32°C,100°C,212°C,A,Science,1
+96,Which planet is largest?,Earth,Jupiter,Saturn,Neptune,B,Science,1
+97,What is log base 10 of 1000?,2,3,4,5,B,Math,3
+98,Who discovered radioactivity?,Curie,Rutherford,Becquerel,Einstein,C,Physics,3
+99,What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Golgi body,B,Biology,2
+100,Which programming paradigm does C++ support?,Procedural only,Object-oriented only,Both procedural and OOP,Functional only,C,Technology,3
